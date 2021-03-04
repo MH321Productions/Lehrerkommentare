@@ -1,1 +1,1 @@
-{"version":"1", "url":"https://github.com/MH321Productions/Lehrerkommentare/blob/main/Encoder.jar?raw=true", "size":"3043901"}
+{"version":"1", "url":"https://github.com/MH321Productions/Lehrerkommentare/blob/main/Encoder.jar?raw=true", "size":"6595080"}
